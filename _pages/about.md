@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-This is your official GitHib website, a small but useful gift! 
+This is your official GitHub website, a small but useful gift! 
 
 
 Hope you like it! 
