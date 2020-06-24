@@ -10,9 +10,12 @@ redirect_from:
 
 
 
-This is your personal, official GitHub website, a small but useful gift! 
+This is your personal, official GitHub website. 
+We know this is nothing, compared to your "coding" expertise, but just an attempt to make your day! 🥰
 
 
+
+Your family and friends have something to say to you, so go check it out NOW!!
 
 
 Hope you like it! 😇 
