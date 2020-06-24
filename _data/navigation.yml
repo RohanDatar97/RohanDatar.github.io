@@ -1,12 +1,12 @@
 # main links links
 main:
   - title: "About Me"
-    url: /About Me/
+    url: /publications/
 
   - title: "Family"
-    #url: /talks/
+    url: /talks/
 
   - title: "Friends"
-    #url: /teaching/
+    url: /teaching/
     
 
