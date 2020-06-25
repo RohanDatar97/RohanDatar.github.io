@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 
-We love you Rohan! Even though you are a nerd, geek, and pretty annoying, we still love you! 😂
+Lorem ipsum dolor sit amet, dictas quaeque accommodare ei mea, vidisse virtute corpora nec ut, dictas prompta scaevola et nam.
+
+Pictures from all his friends will be uploaded below. 
 
 <img src="/images/World.jpeg">
 
