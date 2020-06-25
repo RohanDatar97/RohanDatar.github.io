@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
-Blast from the past!! 
-
 Some memories to cherish forever. 💞
+
+Family photos will be uploaded here.
+
