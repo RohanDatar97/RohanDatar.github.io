@@ -1,6 +1,6 @@
 ---
 
-title: "About Me"
+title: "Coder RDx"
 permalink: /aboutme/
 author_profile: true
 
