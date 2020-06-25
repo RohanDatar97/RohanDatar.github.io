@@ -24,7 +24,7 @@ Agreed that this is nothing compared to your "coding" expertise, but just an att
 
 
 
-Your family and friends have something to say to you, so go check it out NOW!! 🔝
+Your family and friends have something to say to you, so go check it out NOW!! 
 
 
 Hope you like it! 😇 
