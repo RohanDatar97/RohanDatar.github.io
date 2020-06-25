@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Happy 23rd Birthday Rohan! ♥️"
-excerpt: "Happy 23rd Birthday Rohan! ♥️"
+title: "Rohan, you are indeed making the years count! ♥️"
+excerpt: "Rohan, you are indeed making the years count! ♥️"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="/images/4.jpg">
+<img src="/images/HBD.JPG">
 
 
 
@@ -18,7 +18,9 @@ redirect_from:
 
 
 This is your personal, official GitHub website. 
+
 Agreed that this is nothing compared to your "coding" expertise, but just an attempt to make your day! 🥰
+
 
 
 
