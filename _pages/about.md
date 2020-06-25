@@ -19,7 +19,7 @@ redirect_from:
 
 This is your personal, official GitHub website. 
 
-Agreed that this is nothing compared to your "coding" expertise, but just an attempt to make your day! 🥰
+Agreed that this is nothing compared to your "coding" expertise, but just an attempt to make your day memorable! 🥰
 
 
 
