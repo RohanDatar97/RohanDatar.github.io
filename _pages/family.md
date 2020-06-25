@@ -1,7 +1,7 @@
 ---
 
-title: "Fam Jam"
-permalink: /famjam/
+title: "Family"
+permalink: /family/
 author_profile: true
 
 ---
