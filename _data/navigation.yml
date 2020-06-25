@@ -1,18 +1,14 @@
 # main links links
 main:
-  - #title: "About Me"
-    #url: /publications/
-
-  - #title: "Family"
-    #url: /talks/
-
-  - #title: "Friends"
-    #url: /teaching/
-    
   - title: "About Me"
-    url: /personal/ 
-    
+    url: /aboutme/
+
   - title: "Family"
-    url: /family/ 
+    url: /talks/
+
+  - title: "Friends"
+    url: /teaching/
+    
+
     
 
