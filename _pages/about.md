@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Rohan, you are indeed making the years count! ♥️"
-excerpt: "Rohan, you are indeed making the years count! ♥️"
+
 author_profile: true
 redirect_from: 
   - /about/
