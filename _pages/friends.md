@@ -6,18 +6,6 @@ author_profile: true
 
 ---
 
-<html>
-<head>
-  
-  body {
-  background-color: #FFF8DC;
-  font-family: Helvetica, sans-serif;
-}
-
-</body>
-</head?
-</html>
-
 
 Pictures from all his friends will be uploaded below. 
 
