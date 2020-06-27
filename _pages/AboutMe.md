@@ -17,7 +17,7 @@ author_profile: true
 }
 
 body {
-  background-color: #C6DEFF;
+  background-color: #FFF8DC;
   font-family: Helvetica, sans-serif;
 }
 
@@ -33,7 +33,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #6D7B8D;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -56,7 +56,7 @@ body {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #6F4E37;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -153,14 +153,13 @@ body {
   <div class="container left">
     <div class="content">
       <h2>1997</h2>
-      <p>Birth</p>
+      <p>Birth Pictures</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2000</h2>
-      <p>Childhood pictures</p>
-      <img src="/images/5.JPEG">
+      <p>Childhood Pictures</p>
     </div>
   </div>
   <div class="container left">
@@ -172,19 +171,19 @@ body {
   <div class="container right">
     <div class="content">
       <h2>2010</h2>
-      <p>Highschool Achievements</p>
+      <p>Highschool Pictures</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
       <h2>2015</h2>
-      <p>College Days</p>
+      <p>College Pictures</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2020</h2>
-      <p>Office Days</p>
+      <p>Office Pictures</p>
     </div>
   </div>
 </div>
@@ -192,11 +191,12 @@ body {
 </body>
 </html>
 
+ 
 
 
+  
 
-
-
+     
 
 
 
