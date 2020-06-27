@@ -54,7 +54,7 @@ body {
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -17px;
+  right: -18px;
   background-color: #F0FFFF;
   border: 4px solid #6F4E37;
   top: 15px;
@@ -99,14 +99,7 @@ body {
   padding-left: 70px;
   padding-right: 25px;
   }
-  
-  /* Make sure that all arrows are pointing leftwards */
-  .container::before {
-  left: 60px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-  }
+
 
   /* Make sure all circles are at the same spot */
   .left::after, .right::after {
