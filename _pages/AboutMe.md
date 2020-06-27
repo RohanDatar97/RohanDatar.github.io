@@ -21,6 +21,7 @@ Me throughout the years...
 body {
   background-color: white;
   font-family: Helvetica, sans-serif;
+  <h2>Me throughout the years...</h2>
 }
 
 /* The actual timeline (the vertical ruler) */
