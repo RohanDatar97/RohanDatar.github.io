@@ -54,7 +54,7 @@ body {
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -30px;
+  right: -20px;
   background-color: #F0FFFF;
   border: 4px solid #6F4E37;
   top: 15px;
@@ -75,7 +75,7 @@ body {
 
 /* Fix the circle for containers on the right side */
 .right::after {
-  left: -30px;
+  left: -20px;
 }
 
 /* The actual content */
