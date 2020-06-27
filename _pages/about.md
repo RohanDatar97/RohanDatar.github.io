@@ -7,7 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<html>
+<head>
+  
+  body {
+  background-color: #FFF8DC;
+  font-family: Helvetica, sans-serif;
+}
 
+</body>
+</head?
+</html>
 
 <img src="/images/HBD.JPG">
 
