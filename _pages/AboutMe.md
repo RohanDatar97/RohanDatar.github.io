@@ -31,7 +31,7 @@ body {
 .timeline::after {
   content: '';
   position: absolute;
-  width: 6px;
+  width: 4px;
   background-color: #6D7B8D;
   top: 0;
   bottom: 0;
@@ -48,19 +48,6 @@ body {
   width: 50%;
 }
 
-/* The circles on the timeline */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: 17px;
-  background-color: #F0FFFF;
-  border: 4px solid #6F4E37;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
 
 /* Place the container to the left */
 .left {
@@ -73,10 +60,7 @@ body {
 }
 
 
-/* Fix the circle for containers on the right side */
-.right::after {
-  left: -30px;
-}
+
 
 /* The actual content */
 .content {
@@ -101,10 +85,6 @@ body {
   }
 
 
-  /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-  left: 15px;
-  }
   
   /* Make all right containers behave like the left ones */
   .right {
