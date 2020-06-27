@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Me through the years...
+Me throughout the years...
 
 
 
