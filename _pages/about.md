@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<html>
-<head>
-  
-  body {
-  background-color: #FFF8DC;
-  font-family: Helvetica, sans-serif;
+
   
   
   <img src="/images/HBD.JPG">
@@ -29,11 +24,6 @@ Your family and friends have something to say to you, so go check it out NOW!!
 Hope you like it! 😇 
 
 
-}
-
-</body>
-</head?
-</html>
 
 
 
