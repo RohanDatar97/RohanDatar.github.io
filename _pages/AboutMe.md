@@ -107,7 +107,9 @@ body {
   <div class="container right">
     <div class="content">
       <h2>2000</h2>
-      <p>Childhood Pictures</p>
+      <p>Childhood Pictures
+       <img src="/images/5.JPEG">  
+       </p>
     </div>
   </div>
   <div class="container left">
@@ -131,7 +133,9 @@ body {
   <div class="container right">
     <div class="content">
       <h2>2020</h2>
-      <p>Office Pictures</p>
+      <p>Office Pictures
+         <img src="/images/6.JPG">
+      </p>
     </div>
   </div>
 </div>
