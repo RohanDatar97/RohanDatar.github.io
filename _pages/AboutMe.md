@@ -75,7 +75,7 @@ body {
 
 /* Fix the circle for containers on the right side */
 .right::after {
-  left: -16px;
+  left: -18px;
 }
 
 /* The actual content */
