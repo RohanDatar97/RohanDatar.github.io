@@ -6,9 +6,6 @@ author_profile: true
 
 ---
 
-Me throughout the years...
-
-
 
 <html>
 <head>
