@@ -16,7 +16,7 @@ author_profile: true
 }
 
 body {
-  background-color: #FFF8DC;
+  background-color: white;
   font-family: Helvetica, sans-serif;
 }
 
@@ -43,7 +43,8 @@ body {
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: white;
+  background-color: #F0FFFF;
+  border: 1px solid #6F4E37;
   width: 50%;
 }
 
@@ -54,7 +55,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: white;
+  background-color: #F0FFFF;
   border: 4px solid #6F4E37;
   top: 15px;
   border-radius: 50%;
@@ -107,7 +108,7 @@ body {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: #F0FFFF;
   position: relative;
   border-radius: 6px;
 }
@@ -189,6 +190,11 @@ body {
 
 </body>
 </html>
+  
+
+
+ 
+ 
 
  
 
