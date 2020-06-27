@@ -7,15 +7,13 @@ author_profile: true
 ---
 
 
-Some memories to cherish forever. 💞
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
+.images {display: none;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -25,16 +23,6 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
 
 /* Number text (1/3 etc) */
 .numbertext {
@@ -47,8 +35,8 @@ img {vertical-align: middle;}
 
 /* The dots/bullets/indicators */
 .dot {
-  height: 15px;
-  width: 15px;
+  height: 10px;
+  width: 10px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
@@ -86,27 +74,26 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
+<h2>Some memories with the Fam Jam! 💞</h2>
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="images fade">
   <div class="numbertext">1 / 3</div>
   <img src="HBD.JPG" style="width:100%">
-  <div class="text">Caption Text</div>
+ 
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="4.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="img_snow_wide.jpg" style="width:100%">
+  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="5.JPEG" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  
 </div>
 
 </div>
