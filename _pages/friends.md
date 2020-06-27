@@ -6,6 +6,18 @@ author_profile: true
 
 ---
 
+<html>
+<head>
+  
+  body {
+  background-color: #FFF8DC;
+  font-family: Helvetica, sans-serif;
+}
+
+</body>
+</head?
+</html>
+
 
 Lorem ipsum dolor sit amet, dictas quaeque accommodare ei mea, vidisse virtute corpora nec ut, dictas prompta scaevola et nam.
 
