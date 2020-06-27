@@ -17,7 +17,7 @@ author_profile: true
 }
 
 body {
-  background-color: light blue;
+  background-color: #C6DEFF;
   font-family: Helvetica, sans-serif;
 }
 
