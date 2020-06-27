@@ -18,7 +18,7 @@ author_profile: true
 body {
   background-color: white;
   font-family: Helvetica, sans-serif;
-  <h2>Me throughout the years...</h2>
+
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -96,6 +96,8 @@ body {
 </head>
 <body>
 
+ <h2>Me throughout the years...</h2>
+ 
 <div class="timeline">
   <div class="container left">
     <div class="content">
