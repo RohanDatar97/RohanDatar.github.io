@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+Me through the years...
 
 
 
@@ -133,7 +134,7 @@ body {
   <div class="container right">
     <div class="content">
       <h2>2020</h2>
-      <p>Office Pictures
+      <p>Present Day
          <img src="/images/6.JPG">
       </p>
     </div>
