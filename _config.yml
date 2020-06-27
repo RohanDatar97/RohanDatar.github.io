@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rohan Datar"
+title                    : 
 title_separator          : "-"
 name                     : &name "Rohan Datar"
 description              : &description "Computer Engineer from University of Pune. Avid programmer with a zeal to make my mark in world of coding!"
