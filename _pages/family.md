@@ -15,7 +15,7 @@ body {font-family: Verdana, sans-serif;}
 img {vertical-align: middle;}
 
 /* Slideshow container */
-.slideshow-container {
+.images {
   max-width: 1000px;
   position: relative;
   margin: auto;
