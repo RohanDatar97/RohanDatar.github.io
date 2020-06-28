@@ -83,7 +83,6 @@ img {vertical-align: middle;}
 <body>
 
 <h2>Some memories with the Fam Jam!</h2>
-<p>Change image every 2 seconds:</p>
 
 <div class="images">
 
