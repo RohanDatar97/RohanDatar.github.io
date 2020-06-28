@@ -23,6 +23,16 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
 
 /* Number text (1/3 etc) */
 .numbertext {
@@ -35,8 +45,8 @@ img {vertical-align: middle;}
 
 /* The dots/bullets/indicators */
 .dot {
-  height: 10px;
-  width: 10px;
+  height: 15px;
+  width: 15px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
@@ -74,26 +84,27 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Some memories with the Fam Jam! 💞</h2>
+<h2>Automatic Slideshow</h2>
+<p>Change image every 2 seconds:</p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="img_nature_wide.jpg" style="width:100%">
- 
+  <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="img_snow_wide.jpg" style="width:100%">
-  
+  <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="img_mountains_wide.jpg" style="width:100%">
-  
+  <div class="text">Caption Three</div>
 </div>
 
 </div>
@@ -129,7 +140,3 @@ function showSlides() {
 
 </body>
 </html> 
-
-
-
-
