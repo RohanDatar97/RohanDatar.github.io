@@ -80,19 +80,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/HBD.JPG" style="width:100%">
+  <img src="img_nature_wide.jpg" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/5.JPEG" style="width:100%">
+  <img src="img_snow_wide.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/6.JPG" style="width:100%">
+  <img src="img_mountains_wide.jpg" style="width:100%">
   
 </div>
 
@@ -129,3 +129,7 @@ function showSlides() {
 
 </body>
 </html> 
+
+
+
+
