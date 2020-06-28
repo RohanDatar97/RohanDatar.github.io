@@ -124,7 +124,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 4</div>
-  <img src="/images/4,jpg" style="width:100%">
+  <img src="/images/4.jpg" style="width:100%">
  
 </div>
 
