@@ -7,24 +7,39 @@ author_profile: true
 ---
 
 
-<div class="slideshow-container">
-<div class="mySlides fade">
-<img src="/images/HBD.JPG" style='width: 100%;' alt="sally lightfoot crab"/>
-    <div class="text">Sally Lightfoot Crab</div>
-  </div>
-<div class="mySlides fade">
-<img  src="/images/HBD.JPG" style='width: 100%;' alt="fighting nazca boobies"/>
-    <div class="text">A scuffle between two Nazca Boobies</div>
-  </div>
-<div class="mySlides fade">
-<img  src="/images/HBD.JPG" style='width: 100%;' alt="otovalo waterfall"/>
-    <div class="text">A waterfall discovered on a hike in Otovalo</div>
-  </div>
-<div class="mySlides fade">
-<img  src="/images/HBD.JPG" style='width: 100%;' alt="pelican"/>
-    <div class="text">Pelican</div>
-  </div>
-<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
-  <a class="next" onclick='plusSlides(1)'>&#10095;</a>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../lib/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<h2 class="w3-center">Automatic Slideshow</h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="/images/HBD.JPG" style="width:100%">
+  <img class="mySlides" src="/images/HBD.JPG" style="width:100%">
+  <img class="mySlides" src="/images/HBD.JPG" style="width:100%">
 </div>
-<br/>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 3000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html> 
