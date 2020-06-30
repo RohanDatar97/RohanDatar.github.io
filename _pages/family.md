@@ -25,7 +25,7 @@ img {vertical-align: middle;}
 
 /* Next & previous buttons */
 .prev, .next {
-  cursor: constant;
+  cursor: pointer;
   position: absolute;
   top: 50%;
   width: auto;
@@ -34,7 +34,7 @@ img {vertical-align: middle;}
   color: white;
   font-weight: bold;
   font-size: 18px;
-  transition: 0.6s ease;
+  transition: 0.6s linear;
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
