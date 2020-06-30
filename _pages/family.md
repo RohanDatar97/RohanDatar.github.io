@@ -105,26 +105,50 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/images/HBD.JPG" style="width:100%">
+  <div class="numbertext">1 / 8</div>
+  <img src="/images/1.JPG" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/images/5.JPEG" style="width:100%">
+  <div class="numbertext">2 / 8</div>
+  <img src="/images/2.JPG" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/images/6.JPG" style="width:100%">
+  <div class="numbertext">3 / 8</div>
+  <img src="/images/3.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="/images/4.jpg" style="width:100%">
+  <div class="numbertext">4 / 8</div>
+  <img src="/images/7.JPG" style="width:100%">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 8</div>
+  <img src="/images/8.JPG" style="width:100%">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 8</div>
+  <img src="/images/9.JPG" style="width:100%">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 8</div>
+  <img src="/images/10.JPG" style="width:100%">
+ 
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 8</div>
+  <img src="/images/HBD.JPG" style="width:100%">
  
 </div>
 
@@ -139,6 +163,10 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
 </div>
 
 <script>
