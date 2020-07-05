@@ -51,15 +51,6 @@ img {vertical-align: middle;}
 }
 
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: white;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
@@ -107,85 +98,85 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/7.JPG" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/8.JPG" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/9.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/10.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/11.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/12.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/13.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">8 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/14.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">9 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/15.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">10 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/16.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">11 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/17.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">12 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/18.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">13 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/19.JPG" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">14 / 14</div>
+  <div class="numbertext"></div>
   <img src="/images/20.JPG" style="width:100%">
  
 </div>
