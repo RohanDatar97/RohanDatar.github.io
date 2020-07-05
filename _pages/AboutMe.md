@@ -66,7 +66,7 @@ body {
 /* The actual content */
 .content {
   padding: 10px 15px;
-  background-color: #F0FFFF;
+  background-color: #FDEEF4;
   position: relative;
   border-radius: 6px;
 }
@@ -96,7 +96,7 @@ body {
 </head>
 <body>
 
- <h2>Me throughout the years...</h2>
+ <h2>Down the memory lane...</h2>
  
 <div class="timeline">
   <div class="container left">
