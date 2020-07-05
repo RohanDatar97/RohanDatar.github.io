@@ -101,42 +101,47 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>1997</h2>
-      <p>Birth Pictures</p>
+      <h2>1997
+      Birth Pictures
+      </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2000</h2>
-      <p>Childhood Pictures
+      <h2>2000
+      Childhood Pictures
+      </h2>
        <img src="/images/5.JPEG">  
        </p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2005</h2>
-      <p>School Pictures</p>
+      <h2>2005
+      School Pictures
+      </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2010</h2>
-      <p>Highschool Pictures</p>
+      <h2>2010
+      Highschool Pictures
+      </h2>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2015</h2>
-      <p>College Pictures</p>
+      <h2>2015
+      College Pictures
+      </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2020</h2>
-      <p>Present Day
+      <h2>2020
+      Present Day
          <img src="/images/6.JPG">
-      </p>
+      </h2>   
     </div>
   </div>
 </div>
