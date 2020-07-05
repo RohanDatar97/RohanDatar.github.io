@@ -101,42 +101,48 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>The one where you could just eat and sleep all day, and no one would complain!
+      <h2> Episode 1997 
+        <br>The one where you said "Hello World!"
         <img src="/images/2.JPG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>Childhood Pictures
+      <h2> Episode 2000
+        <br>The one where you could just eat and sleep all day, and no one would complain!
+         <img src="/images/3.JPEG">  
       </h2>
-       <img src="/images/3.JPEG">  
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>School Pictures
+      <h2>Episode 2005
+        <br>School Pictures
         <img src="/images/5.JPG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>Highschool Pictures
+      <h2>Episode 2010
+        <br>The one where you everyone started calling you - "RDx"! 
         <img src="/images/6.JPG">
       </h2>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>College Pictures
+      <h2>Episode 2015
+        <br>The one where you started your "Coding" journey! 
         <img src="/images/1.JPEG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>The one where you are on the threshold of exciting new opportunities! 
+      <h2>Episode 2020
+        <br>The one where you are on the threshold of exciting new opportunities! 
          <img src="/images/4.JPG">
       </h2>   
     </div>
