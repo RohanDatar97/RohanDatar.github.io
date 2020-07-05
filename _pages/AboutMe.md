@@ -101,9 +101,9 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2> style="color:#8C001A" Episode 1997 </h2>
+      <h2> Episode 1997 </h2>
         <br>The one where you said "Hello World!"
-        <p style="font-size:30px">The one where you said "Hello World!"
+        <p>style="color:#8C001A">The one where you said "Hello World!"
           <img src="/images/2.JPG">
         </p>
     </div>
@@ -119,7 +119,7 @@ body {
   <div class="container left">
     <div class="content">
       <h2>Episode 2005
-        <br>School Pictures
+        <br>The one where you started your "BSM" journey!
         <img src="/images/5.JPG">
       </h2>
     </div>
