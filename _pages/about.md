@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/HBD.JPG">
 
 
-This is your personal, official GitHub website. 😇 
+This is your personal, official GitHub website. 
 
 Agreed that this is nothing compared to your "coding" expertise, but just an attempt to make your day memorable! 🥰 
 
