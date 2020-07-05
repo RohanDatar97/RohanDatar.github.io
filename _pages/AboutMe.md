@@ -102,7 +102,7 @@ body {
   <div class="container left">
     <div class="content">
       <h2> Episode 1997 :</h2>
-        <p>style="color:#8C001A">The one where you said "Hello World!"
+        <p style="color:#8C001A">The one where you said "Hello World!"
           <img src="/images/2.JPG">
         </p>
     </div>
