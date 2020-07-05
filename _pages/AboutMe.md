@@ -102,49 +102,49 @@ body {
   <div class="container left">
     <div class="content">
       <h2> Episode 1997 :</h2>
-        <p style="color:#8C001A">The one where you said "Hello World!"
+        <p style="color:#0041C2">The one where you said "Hello World!"
           <img src="/images/2.JPG">
         </p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2> Episode 2000
-        <br>The one where you could just eat and sleep all day, and no one would complain!
+      <h2> Episode 2000 : </h2>
+       <p style="color:#0041C2">The one where you could just eat and sleep all day, and no one would complain!
          <img src="/images/3.JPEG">  
-      </h2>
+        </p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>Episode 2005
-        <br>The one where you started your "BSM" journey!
+      <h2>Episode 2005 :</h2>
+       <p style="color:#0041C2">The one where you started your "BSM" journey!
         <img src="/images/5.JPG">
-      </h2>
+      </p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>Episode 2010
-        <br>The one where you everyone started calling you - "RDx"! 
+      <h2>Episode 2010 :</h2>
+        <p style="color:#0041C2">The one where everyone started calling you - "RDx"! 
         <img src="/images/6.JPG">
-      </h2>
+      </p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>Episode 2015
-        <br>The one where you started your "Coding" journey! 
+      <h2>Episode 2015 :</h2>
+       <p style="color:#0041C2">The one where you started your "Coding" journey! 
         <img src="/images/1.JPEG">
-      </h2>
+      </p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>Episode 2020
-        <br>The one where you are on the threshold of exciting new opportunities! 
+      <h2>Episode 2020 :</h>
+       <p style="color:#0041C2">The one where you are on the threshold of exciting new opportunities! 
          <img src="/images/4.JPG">
-      </h2>   
+      </p>   
     </div>
   </div>
 </div>
