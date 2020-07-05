@@ -134,14 +134,14 @@ body {
   <div class="container left">
     <div class="content">
       <h2>Episode 2015 :</h2>
-       <p style="color:#0041C2">The one where you started your "Coding" journey! 
+       <p style="color:#0041C2">The one where the "Coding" obsession began! 
         <img src="/images/1.JPEG">
       </p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>Episode 2020 :</h>
+      <h2>Episode 2020 :</h2>
        <p style="color:#0041C2">The one where you are on the threshold of exciting new opportunities! 
          <img src="/images/4.JPG">
       </p>   
