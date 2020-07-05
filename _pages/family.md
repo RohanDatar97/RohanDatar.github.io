@@ -18,7 +18,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
 }
@@ -53,8 +53,9 @@ img {vertical-align: middle;}
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: #000000;
   font-size: 12px;
+  font-weight: bold;
   padding: 8px 12px;
   position: absolute;
   top: 0;
@@ -102,7 +103,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Down the memory lane...</h2>
+<h2>Memories with the Fam Jam...</h2>
 
 <div class="slideshow-container">
 
