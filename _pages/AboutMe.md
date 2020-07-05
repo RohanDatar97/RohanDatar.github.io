@@ -44,7 +44,7 @@ body {
 .container {
   padding: 4px 20px;
   position: relative;
-  background-color: #F0FFFF;
+  background-color: #FFF8DC;
   border: 1px solid #6F4E37;
   width: 50%;
 }
@@ -66,7 +66,7 @@ body {
 /* The actual content */
 .content {
   padding: 10px 15px;
-  background-color: #FDEEF4;
+  background-color: #FFF8DC;
   position: relative;
   border-radius: 6px;
 }
