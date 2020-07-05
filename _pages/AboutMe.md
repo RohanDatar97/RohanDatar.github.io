@@ -112,7 +112,6 @@ body {
       <br>Childhood Pictures
       </h2>
        <img src="/images/5.JPEG">  
-       </p>
     </div>
   </div>
   <div class="container left">
