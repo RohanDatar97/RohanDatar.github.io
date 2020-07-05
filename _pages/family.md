@@ -55,7 +55,6 @@ img {vertical-align: middle;}
 .numbertext {
   color: white;
   font-size: 12px;
-  font-weight: bold;
   padding: 8px 12px;
   position: absolute;
   top: 0;
