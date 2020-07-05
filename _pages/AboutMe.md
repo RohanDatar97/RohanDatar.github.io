@@ -42,7 +42,7 @@ body {
 
 /* Container around content */
 .container {
-  padding: 10px 40px;
+  padding: 4px 20px;
   position: relative;
   background-color: #F0FFFF;
   border: 1px solid #6F4E37;
@@ -65,7 +65,7 @@ body {
 
 /* The actual content */
 .content {
-  padding: 20px 30px;
+  padding: 10px 15px;
   background-color: #F0FFFF;
   position: relative;
   border-radius: 6px;
