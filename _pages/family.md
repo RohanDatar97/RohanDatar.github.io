@@ -53,7 +53,7 @@ img {vertical-align: middle;}
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #000000;
+  color: white;
   font-size: 12px;
   font-weight: bold;
   padding: 8px 12px;
