@@ -101,45 +101,43 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>1997
-      <br>Birth Pictures
+      <h2>The one where you could just eat and sleep all day, and no one would complain!
+        <img src="/images/2.JPG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2000
-      <br>Childhood Pictures
+      <h2>Childhood Pictures
       </h2>
-       <img src="/images/5.JPEG">  
+       <img src="/images/3.JPEG">  
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2005
-      <br>School Pictures
+      <h2>School Pictures
+        <img src="/images/5.JPG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2010
-      <br>Highschool Pictures
+      <h2>Highschool Pictures
+        <img src="/images/6.JPG">
       </h2>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2015
-      <br>College Pictures
+      <h2>College Pictures
+        <img src="/images/1.JPEG">
       </h2>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2020
-      <br>Present Day
-         <img src="/images/6.JPG">
+      <h2>The one where you are on the threshold of exciting new opportunities! 
+         <img src="/images/4.JPG">
       </h2>   
     </div>
   </div>
