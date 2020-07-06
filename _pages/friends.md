@@ -33,7 +33,7 @@ img {vertical-align: middle;}
   margin-top: -22px;
   color: white;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
@@ -54,8 +54,8 @@ img {vertical-align: middle;}
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 5px;
-  width: 5px;
+  height: 4px;
+  width: 4px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
