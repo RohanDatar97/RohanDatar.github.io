@@ -94,6 +94,9 @@ img {vertical-align: middle;}
 </head>
 <body>
 
+
+<h2>Memories with the ones that have forever got your back...</h2>
+
 <div class="slideshow-container">
 
 <div class="mySlides fade">
