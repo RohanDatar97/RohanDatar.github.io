@@ -54,8 +54,8 @@ img {vertical-align: middle;}
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 10px;
-  width: 10px;
+  height: 6px;
+  width: 6px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
