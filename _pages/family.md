@@ -33,7 +33,7 @@ img {vertical-align: middle;}
   margin-top: -22px;
   color: white;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
