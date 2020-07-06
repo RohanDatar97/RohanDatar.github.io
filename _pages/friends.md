@@ -23,42 +23,6 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
-a {
-  text-decoration: none;
-  display: inline-block;
-  padding: 8px 16px;
-}
-
-a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.previous {
-  background-color: #f1f1f1;
-  color: black;
-}
-
-.next {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.round {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
-<h2>Previous and Next Buttons</h2>
-
-<a href="#" class="previous round">&#8249;</a>
-<a href="#" class="next round">&#8250;</a>
-  
-</body>
-</html> 
-
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
